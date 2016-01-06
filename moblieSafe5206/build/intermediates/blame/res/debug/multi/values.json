@@ -1,0 +1,285 @@
+[
+    {
+        "outputFile": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 36,
+                    "endOffset": 87
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 56,
+                        "endColumn": 35,
+                        "endOffset": 88
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 57,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 55,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 36,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 37,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 423,
+                    "endColumn": 52,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 41,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 52,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 52,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 69,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 69,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1468
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 1464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1473,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2001
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2006,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 2544
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2017,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 2564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2549,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 2921
+                },
+                "from": {
+                    "file": "E:\\AndWorkplace\\moblieSafe52062\\moblieSafe5206\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1060
+                    }
+                }
+            }
+        ]
+    }
+]
